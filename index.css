@@ -1,0 +1,55 @@
+#sneaks{
+    color:#D26200;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 12px;
+    margin-bottom: -3px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700px;
+}
+#lowProfile{
+    font-size: 12px;
+}
+#img{
+    /* border: 1px solid green; */
+    height: 400px;
+    width: 450px;
+    margin-top: 50px;
+    border-radius: 30px;
+}
+#img-1{
+    height: 10vh;
+    border-radius: 10px;
+}
+
+#img-2{
+    height: 10vh;
+    border-radius: 10px;
+    margin-left: 36px;
+}
+
+#img-3{
+    height: 10vh;
+    border-radius: 10px;
+    margin-left: 36px;
+}
+
+
+#img-4{
+    height: 10vh;
+    border-radius: 10px;
+    margin-left: 36px;
+}
+.company{
+    margin-right: 170px;
+    width: 900px;
+}
+
+#butn{
+    background-color:#D26200 ;
+    outline: none;
+    border-radius: 10px;
+    
+}
